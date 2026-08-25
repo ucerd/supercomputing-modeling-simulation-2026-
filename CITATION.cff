@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite this repository or the specific lecture."
+title: "Supercomputing for Modeling and Simulation: Summer School Lecture Material"
+type: generic
+version: "1.0.0"
+date-released: 2026-08-23
+authors:
+  - family-names: "Hussain"
+    given-names: "Tassadaq"
+    affiliation: "Centre for AI & Big Data (CAID), Namal University, Mianwali"
+  - family-names: "Haider"
+    given-names: "Amna"
+    affiliation: "Pakistan Supercomputing / UCERD Pvt Ltd"
+  - family-names: "Aman"
+    given-names: "Mushafia Sadia"
+    affiliation: "Centre for AI & Big Data (CAID), Namal University, Mianwali"
+  - family-names: "Najumuddin"
+    given-names: "Najumuddin"
+    affiliation: "Hamdard University, Karachi"
+repository-code: "https://github.com/ucerd/supercomputing-modeling-simulation-2026"
+url: "https://caid.namal.edu.pk"
+keywords:
+  - high-performance computing
+  - HPC
+  - modeling
+  - simulation
+  - Slurm
+  - MPI
+  - OpenMP
+  - GROMACS
+  - Quantum ESPRESSO
+  - OpenFOAM
+  - scientific computing
+  - performance optimization
+license: "proprietary"
